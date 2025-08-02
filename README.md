@@ -37,4 +37,4 @@ This chatbot is developed for the **IBM SkillsBuild Internship** using Python an
 - `ibm_certificate.png`
 
 ## 🔗 Project URL
-[GitHub Link Here]
+https://github.com/T-Ishwarya/ai-health-assistant-agent.git
